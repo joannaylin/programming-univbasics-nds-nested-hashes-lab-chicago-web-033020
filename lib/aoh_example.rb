@@ -38,7 +38,7 @@ def literal_aoh
       occupation: "None"
     },
     {
-      name:  "Bruce Green", 
+      name:  "Bruce Green",
       occupation: "Fan of Mildred"
     }
   ]
